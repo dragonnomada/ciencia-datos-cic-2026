@@ -2,6 +2,16 @@
 
 > M. en T.C. Alan Badillo Salas
 
+## Sesión 1
+
+En la primera sesión hemos comenzado a estudiar los conjuntos de datos, su fichado y el modelo de análisis cuantitativo.
+
+En el repositorio se encuentra el material generado en clase y las notas del pizarrón.
+
+También el archivo de excel con los datos del ATUS (Accidentes de Tránsito) del 2025 del INEGI.
+
+La primera tarea ha sido buscar y descargar un conjunto de datos de alguna fuente oficial como datos.gob.mx o inegi.gob.mx, después fichar sus columnas con tipo de dato (cualitativo / cuantitativo), el rango o clases y una breve descripción, después seleccionar una columna cuantitativa, ordenarla, sacar su progresión, los cuantiles y la gráfica percentil.
+
 ## Temario
 
 > **Unidad 1.** Introducción a la Ciencia de Datos.
